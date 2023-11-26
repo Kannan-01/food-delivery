@@ -1,0 +1,4 @@
+.navBar {
+  height: 80px;
+  background-image: radial-gradient( circle farthest-corner at 3.1% 6.8%,  rgba(199,0,59,1) 0%, rgba(255,88,53,1) 97.7% );
+}
